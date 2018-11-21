@@ -1,2 +1,2 @@
 # electricReality
-An artwork combining electronics and print based on a photo from 2013.
+An artwork combining electronics and print media based around a photo taken in 2013.
